@@ -9,7 +9,6 @@ $sql = $sql . "WHERE id=$id;";
 $inserir = mysqli_query($conexao, $sql);
 
 
-//echo $id;
 ?>
 
 <html>
