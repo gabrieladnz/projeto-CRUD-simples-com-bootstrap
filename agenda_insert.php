@@ -34,7 +34,7 @@ $inserir = mysqli_query($conexao, $sql);
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
 	<div class="container" style="widht: 500px;margin-top: 20px">
-		<h4>Cliente inserido</h4>
+		<h4>Cliente inserido!</h4>
 	</div>
 	<center>
 		<a href="agenda_inserir.php" role="button" class="btn btn-sm btn-primary">Cadastrar novo cliente</a>
