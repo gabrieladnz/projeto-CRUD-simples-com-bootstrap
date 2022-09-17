@@ -53,9 +53,6 @@ $id = $_GET['id'];
     ?>
 
 
-
-
-
     <form action="agenda_update.php" method="post" style="margin-top: 20px">
       <input type="text" class="form-control" id="modelo" autocomplete="off" name="id" value="<?php echo $id ?>" style="display: none;">
 
