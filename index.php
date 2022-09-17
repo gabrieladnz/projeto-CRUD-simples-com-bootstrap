@@ -24,14 +24,8 @@
     }
   </style>
 
-
-  <?php //echo '<p>Hello World</p>'; 
-  ?>
-
-
-
+<div class="bg-success p-2 text-white">Agenda comercial</div>
   <div class="container" id="tamanhoContainer" style="margin-top: 40px">
-
     <div class="row">
       <div class="col-sm-6">
         <div class="card">

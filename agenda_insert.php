@@ -4,7 +4,7 @@ ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
 include('conexao.php');
-
+//Criando variáveis com o mesmo nome das colunas das tabelas
 $nome = $_POST['nome'];
 $email = $_POST['email'];
 $celular = $_POST['celular'];
